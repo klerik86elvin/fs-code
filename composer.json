@@ -1,0 +1,17 @@
+{
+    "name": "user/query-builder",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Klerik"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}
