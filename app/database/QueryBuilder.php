@@ -1,10 +1,6 @@
 <?php
 
 namespace app\database;
-
-
-use stdClass;
-
 class QueryBuilder
 {
     private string $sql = '';
